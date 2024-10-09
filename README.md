@@ -1,7 +1,7 @@
 # Sebsegoso - _Front-end web developer_
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebsegoso&theme=dark&layout=compact&locale=es)
+![Sebsegoso GitHub stats](https://github-readme-stats.vercel.app/api?username=sebsegoso&show_icons=true&theme=dark&layout=compact) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebsegoso&theme=dark&layout=compact&locale=es) 
 
 ## Encuéntrame en:
 - [Linkedin](https://www.linkedin.com/in/sebsegoso/)
